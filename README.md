@@ -14,3 +14,6 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+git add README.md
+git commit -m "Fix mistake in README.md"
+
